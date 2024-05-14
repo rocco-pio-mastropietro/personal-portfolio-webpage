@@ -1,4 +1,3 @@
 # Personal Portfolio Webpage
 
-This i one of the required projects to earn my Responsive Web Design certification by freeCodeCamp. 
-For this project, I built my own personal portfolio page.
+This is the boilerplate for the Personal Portfolio Webpage project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage
